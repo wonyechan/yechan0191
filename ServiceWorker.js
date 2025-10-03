@@ -1,9 +1,9 @@
 const cacheName = "yechanpro-stick-1.0";
 const contentToCache = [
     "Build/stick.loader.js",
-    "Build/stick.framework.js.unityweb",
-    "Build/stick.data.unityweb",
-    "Build/stick.wasm.unityweb",
+    "Build/stick.framework.js",
+    "Build/stick.data",
+    "Build/stick.wasm",
     "TemplateData/style.css"
 
 ];
